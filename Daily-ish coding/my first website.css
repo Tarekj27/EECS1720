@@ -1,10 +1,10 @@
 *{
-    background-color: blue;
+    background-color: grey;
 }
 
 h1{
-    color: red;
-    border: 2px black;
+    color: lightcoral;
+    text-align: center;
 }
 
 h2{
