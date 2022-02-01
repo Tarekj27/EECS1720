@@ -5,6 +5,6 @@ function gotMessage(message,sender,sendresponse)
 	let paragraphs = document.getElementsByTagName("p");
 	for(elt of paragraphs)
 	{
-		elt.style['background-color'] = '#00CED1';
+		elt.style['background-color'] = '#ed0e21';
 	}
 }

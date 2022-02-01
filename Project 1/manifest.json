@@ -1,7 +1,14 @@
 {
 	"manifest_version" : 2,
 	"name" : "Change Paragraph background color",
+  "description": "This extension lets you change the background of all paraghraphs on the active site",
 	"version" : "0.001",
+   "icons": {
+    "128": "Data/Asta.jpg",
+    "48": "Data/Asta.jpg",
+    "32": "Data/Asta.jpg",    
+    "16": "Data/Asta.jpg"
+  },
 	"content_scripts" : [
 		{
 			"matches" : [
