@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     overflow-x: hidden;
+    background-color: grey;
 }
 .game{
     width: 500px;
@@ -12,7 +13,7 @@
 #character{
     width: 20px;
     height: 50px;
-    background-color: red;
+    background-color: green;
     position:relative;
     top: 150px;
 }
@@ -27,7 +28,7 @@
 }
 
 #block{
-    background-color: blue;
+    background-color: red;
     width: 20px;
     height: 20px;
     position: relative;
