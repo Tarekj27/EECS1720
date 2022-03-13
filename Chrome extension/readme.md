@@ -1,0 +1,1 @@
+This is a chrome extension i made that highlights parapghraphs 
